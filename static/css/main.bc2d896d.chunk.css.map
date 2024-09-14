@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/myindex.css"],"names":[],"mappings":"AAAA,YACE,qBACF,CAEA,EACE,WACF,CAEA,YACE,UACF,CAEA,SACE,SACF","file":"main.bc2d896d.chunk.css","sourcesContent":["table, th, td {\n  border: 1px solid black;\n}\n\na {\n  margin: 10px;\n}\n\na, a:visited {\n  color: black;\n}\n\na.active {\n  color: red;\n}\n"]}
